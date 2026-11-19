@@ -1,6 +1,7 @@
 package com.yugioh.persistencia;
 
 import com.yugioh.modelo.ResultadoAtaque;
+import com.yugioh.modelo.ResultadoAtaque;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -12,10 +13,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * RF4 - Persistencia: agrega una línea por ataque al archivo de texto.
- * Formato: fecha | turno | atacante | defensor | daño | resultado
- */
+
 public class HistorialCombate {
 
     public static final String ARCHIVO_POR_DEFECTO = "historial_combate.txt";
@@ -33,7 +31,7 @@ public class HistorialCombate {
         this.ruta = ruta;
     }
 
-    /** Guarda un ataque y devuelve la línea escrita (para mostrarla en la vista). */
+   
     public String registrar(int turno, String jugadorAtacante, String jugadorDefensor,
             ResultadoAtaque r) throws IOException {
         String afectado;
