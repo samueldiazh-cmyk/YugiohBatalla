@@ -1,3 +1,5 @@
+package com.yugioh.controlador;
+
 
 
 import com.yugioh.modelo.AccionInvalidaException;
