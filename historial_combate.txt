@@ -1,0 +1,8 @@
+2026-11-18 22:50:34 | === Nuevo duelo: Yugi vs Kaiba (LP iniciales 8000) ===
+2026-11-18 22:51:58 | === Nuevo duelo: Yugi vs Kaiba (LP iniciales 8000) ===
+2026-11-18 22:52:50 | Turno 1 | Atacante: mipolla (Yugi) | Defensor: Ataque directo (Kaiba) | Daño: 3000 a Kaiba | Resultado: mipolla ataca directamente e inflige 3000 de daño.
+2026-11-18 22:53:57 | Turno 2 | Atacante: cojones (Kaiba) | Defensor: mipolla (Yugi) | Daño: 2000 a Kaiba | Resultado: mipolla resiste y destruye a cojones.
+2026-11-18 22:54:22 | === Nuevo duelo: Yugi vs Kaiba (LP iniciales 8000) ===
+2026-11-18 22:55:25 | Turno 1 | Atacante: carlos teves (Yugi) | Defensor: 1234 (Kaiba) | Daño: 1134 a Yugi | Resultado: 1234 resiste y destruye a carlos teves.
+2026-11-18 22:55:43 | Turno 1 | Atacante: vegeta777 (Yugi) | Defensor: 1234 (Kaiba) | Daño: 2 a Yugi | Resultado: 1234 resiste y destruye a vegeta777.
+2026-11-18 22:55:52 | Turno 1 | Atacante: 1230 (Yugi) | Defensor: 1234 (Kaiba) | Daño: 1212 a Yugi | Resultado: 1234 resiste y destruye a 1230.

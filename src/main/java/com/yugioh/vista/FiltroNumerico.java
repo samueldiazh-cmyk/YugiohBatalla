@@ -4,10 +4,7 @@ import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.DocumentFilter;
 
-/**
- * Impide escribir o pegar letras en los campos numéricos (ATQ / DEF)
- * y limita la cantidad de dígitos.
- */
+
 public class FiltroNumerico extends DocumentFilter {
 
     private final int maxDigitos;

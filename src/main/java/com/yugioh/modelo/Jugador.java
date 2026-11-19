@@ -4,10 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * Duelista. Tiene sus Puntos de Vida (LP) y una ASOCIACIÓN con los
- * monstruos de su campo (estructura dinámica ArrayList).
- */
+
 public class Jugador {
 
     public static final int LP_INICIALES = 8000;

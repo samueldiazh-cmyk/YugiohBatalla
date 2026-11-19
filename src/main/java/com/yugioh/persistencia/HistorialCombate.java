@@ -55,7 +55,7 @@ public class HistorialCombate {
         return linea;
     }
 
-    /** Guarda un evento libre (inicio de duelo, ganador...). */
+    
     public String registrarEvento(String evento) throws IOException {
         String linea = LocalDateTime.now().format(FORMATO_FECHA) + " | " + evento;
         escribir(linea);

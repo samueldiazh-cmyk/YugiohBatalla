@@ -1,12 +1,10 @@
 package com.yugioh.modelo;
 
-/**
- * Resultado inmutable de un ataque: cuánto daño hubo, quién lo recibe
- * y qué monstruos se destruyen. No modifica a los jugadores.
- */
+
+ 
 public final class ResultadoAtaque {
 
-    /** Jugador que recibe el daño de batalla. */
+    
     public enum Afectado { NINGUNO, ATACANTE, DEFENSOR }
 
     private final String nombreAtacante;
